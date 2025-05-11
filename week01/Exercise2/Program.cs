@@ -40,6 +40,6 @@ class Program
             Console.WriteLine("Better luck netx time.");
         }
 
-        
+
     }
 }
